@@ -40,3 +40,9 @@ nav a {
         display: flex;
     }
 }
+main {
+    width: 70%;
+    height: 350px;
+    background: blue;
+    margin: 0.5em auto;
+}
