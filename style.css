@@ -12,7 +12,7 @@ header {
     height: 3em;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(0, 0, 32, 0.856);
+    background-color: #000020da;
     color: white;
     padding: 0 1em;
 }
@@ -41,8 +41,8 @@ nav a {
     }
 }
 main {
-    width: 70%;
-    height: 350px;
-    background: blue;
-    margin: 0.5em auto;
+    max-width: 600px;
+    min-height: 500px;
+    background: #000020da;
+    margin: 3em auto;
 }
