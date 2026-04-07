@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-
+   background-color: #757474;
 }
 header {
     display: flex;
@@ -12,7 +12,7 @@ header {
     height: 3em;
     justify-content: space-between;
     align-items: center;
-    background-color: #111111e0;
+    background-color: #ffffffde;
     color: white;
     padding: 0 1em;
 }
